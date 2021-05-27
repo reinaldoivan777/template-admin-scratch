@@ -1,10 +1,10 @@
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Login from "./Page/Login";
-import Register from "./Page/Register";
-import ForgotPassword from "./Page/ForgotPassword";
-import ChangePassword from "./Page/ChangePassword";
+import Login from "./Pages/Login";
+import Register from "./Pages/Register";
+import ForgotPassword from "./Pages/ForgotPassword";
+import ChangePassword from "./Pages/ChangePassword";
 
 function App() {
   return (
